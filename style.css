@@ -40,9 +40,6 @@ li{
     flex-basis: 380px;
     max-width: 100%;
 }
-li:hover{
-    transform: scale(0.997);
-}
 a{
     text-decoration: none;
     text-align: center;
